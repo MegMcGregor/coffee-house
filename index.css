@@ -1,0 +1,17 @@
+.shop {
+    display: inline;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    border: 1px dotted black;
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pageHeader {
+    text-align: center;
+    margin: 20px;
+}
